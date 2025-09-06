@@ -31,3 +31,17 @@ Abre tu navegador en:
 http://localhost:6901
 
 Desde ahí se carga la aplicación gráfica de la Nómina de Personal.
+
+NOTAS
+
+Si el puerto 6901 ya está en uso, cambia el mapeo con otro número (ejemplo: -p 6902:6901).
+
+El archivo empleados.db se incluye como ejemplo; se puede reemplazar por otra base de datos según necesidad.
+
+Para detener el contenedor:
+
+docker stop nomina
+
+Para eliminarlo completamente:
+
+docker rm nomina
