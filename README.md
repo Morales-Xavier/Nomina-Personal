@@ -3,6 +3,11 @@ Proyecto Nómina de Personal
 Este proyecto es una aplicación desarrollada en Python (Tkinter + CustomTkinter) para la gestión de empleados y la generación de nóminas.
 El entorno gráfico se ejecuta dentro de un contenedor Docker con soporte para noVNC, permitiendo acceder a la interfaz desde el navegador.
 
+
+LOGIN
+Usuario/Empresa : Inversiones Alejandr@ 2012
+Contraseña : Alejandr@2012
+
 Requisitos previos
 
 Tener instalado Docker Desktop
